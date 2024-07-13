@@ -1,1 +1,8 @@
+Diagramas UML de un sistema de gestión de biblioteca y un sistema de gestión de comercio electrónico.
+- Diagramas de casos de uso
+- Diagramas de secuencia
+- Diagramas de clases
+- Diagramas de actividades
+- Diagramas de componentes
 
+por: Daniela I. Camayo G.
